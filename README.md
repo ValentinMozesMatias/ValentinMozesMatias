@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValentinMozesMatias
-- 👀 I’m interested in ... React JS
-- 🌱 I’m currently learning ... REACT JS, Java Script, CSS, HTML
-- 💞️ I’m looking to collaborate on ... FRONT END PROJECTS
+- 👀 I’m interested in ... React JS, .Net and SQL DB
+- 🌱 I’m currently learning ... REACT JS and Angular
+- 💞️ I’m looking to collaborate on ... FullStak PROJECTS
 - 📫 How to reach me ... Valentin.mozes@gmail.com
 
 <!---
